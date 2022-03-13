@@ -18,6 +18,7 @@ struct User {
              person: Person(name: "Aleksandr",
                             surname: "F.",
                             swiftLogo: "swiftlogo",
+                            avatar: "Avatar",
                             about:
 """
 Меня зовут Александр
@@ -25,8 +26,7 @@ struct User {
 Я из Дедовска (Московская область)\n
 Мечтаю освоить новую профессию и очень рад, что обучаюсь в SwiftBook.\n
 E-mail: A7214370@yandex.ru
-""",
-                            avatar: "Avatar"))
+"""))
     }
 }
 
@@ -34,8 +34,8 @@ struct Person {
     let name: String
     let surname: String
     let swiftLogo: String
-    let about: String
     let avatar: String
+    let about: String
     
     var fullname: String {
         name + " " + surname
