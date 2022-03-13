@@ -21,10 +21,10 @@ struct User {
                             avatar: "Avatar",
                             about:
 """
-Меня зовут Александр
-Мне 32 года
-Я из Дедовска (Московская область)\n
-Мечтаю освоить новую профессию и очень рад, что обучаюсь в SwiftBook.\n
+My name is Aleksandr
+I am 32 years old
+I am from Dedovsk (Moscow region)\n
+I dream of mastering a new profession and am very glad that I am studying at SwiftBook ☺️.\n
 E-mail: A7214370@yandex.ru
 """))
     }
