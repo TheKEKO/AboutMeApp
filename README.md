@@ -1,5 +1,5 @@
 # AboutMeApp
-**Homework 2.4 AboutMeApp**
+**AboutMeApp**
 1. The **MVC** data model has been created.
 
 ![2022-03-14_10-58-43](https://user-images.githubusercontent.com/93527566/158129103-c0b20c30-fcd7-4049-a8fa-193bb68ab13e.png)
